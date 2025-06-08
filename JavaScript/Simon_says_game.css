@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    justify-content: center;
+}
+.btn_1{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 24%;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.red{
+    background-color: #d95980;
+}
+.green{
+    background-color: #63aac0;
+}
+.yellow{
+    background-color: #f99b45;
+}
+.purple{
+    background-color: #819ff9;
+}
+.flash{
+    background-color:#ffff;
+}
+.Name{
+    font-size: 2rem;
+    color:#f99b47;
+    margin: 0.5rem 0;
+}
+
+
+.userflash{
+    background-color: lightgreen;
+}
